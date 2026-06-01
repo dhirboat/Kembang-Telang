@@ -28,11 +28,11 @@ This project was created to improve the cafe's online presence and provide custo
 
 ## Authors
 
-### Nadhira Azzahra
+### [Nadhira Azzahra](https://github.com/dhirboat) 
 
 - Developed and customized the website content and design
 - Created as a web development and digital promotion project
 
-### Muhammad Ahadan Fauzi
+### [Muhammad Ahadan Fauzi](https://github.com/Ahadan1) 
 
 - Bug fixes
